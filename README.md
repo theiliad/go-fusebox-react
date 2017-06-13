@@ -7,4 +7,4 @@ This is a React bundle being built by Fusebox, and being served through a Go ser
 
 1. Run `npm install` to install packages
 2. Run `node fuse` to build the bundle using fusebox
-3. **In a separate tab**, run `go run server.go`
+3. **(If you want HMR, do this step in a separate tab)**, run `go run server.go`
