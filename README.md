@@ -1,4 +1,7 @@
 # go-fusebox-react
+**Fusebox** is a new bundler, a competitor of Webpack!
+
+This is a React bundle being built by Fusebox, and being served through a Go server 🔥
 
 <img src="preview.jpg">
 
